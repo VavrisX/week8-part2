@@ -6,10 +6,10 @@
     version     = "1.0.0" >
 
 
-  <name>Location-week8</name>
+  <name>Location-week8-part2</name>
 
   <description>
-    week8
+    week8-part2
   </description>
  
     <!--Android 6.0 or newer: Plugin to support runtime permissions--> 
