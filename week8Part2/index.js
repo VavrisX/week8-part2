@@ -75,4 +75,11 @@ function failPosition(error) {
 
 function stopPosition(){
     navigator.geolocation.clearWatch(watchID);
+    	$('#time').val("");
+    $('#longtext').val("");
+    $('#lattext').val("");
+    $('#accuracy').val("");
+    $('#compas').val("");
+    $('#alttext').val("");
+    $('#speedtext').val("");
 }
